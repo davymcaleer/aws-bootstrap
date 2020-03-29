@@ -18,5 +18,5 @@ Resources:
         RestrictPublicBuckets: true
       BucketEncryption:
         ServerSideEncryptionConfiguration:
-          - ServerSudeEncryptionByDefault:
-              SSEAlgorithm: AE256
+          - ServerSideEncryptionByDefault:
+              SSEAlgorithm: AES256
